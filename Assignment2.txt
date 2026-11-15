@@ -2,3 +2,4 @@ Name : Aryan Ahmed ,Roll no : 2630108 >Assignment2.txt
 git status
 
 echo Name : Aryan Ahmed ,Roll no : 2630108
+Today I learned about Git
